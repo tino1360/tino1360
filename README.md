@@ -1,13 +1,13 @@
-### Hi there 👋
+### Hello 👋
 
-**tino1360/tino1360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#My name is Santino
 
-Here are some ideas to get you started:
+I am currently a college student majoring in Networking & Cybersecurity! This repo is for my IDMX 225 Project, and here are some interesting facts about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+• I am 18 years old
+
+• I am from New Jersey
+
+• I play ⚾ and 🏀
+
+• I love to play :video_game: and look at :car: in my spare time
