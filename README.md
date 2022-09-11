@@ -1,6 +1,6 @@
-### Hello 👋
+# Hello 👋
 
-#My name is Santino
+## My name is Santino
 
 I am currently a college student majoring in Networking & Cybersecurity! This repo is for my IDMX 225 Project, and here are some interesting facts about me:
 
