@@ -10,4 +10,4 @@ I am currently a college student majoring in Networking & Cybersecurity! This re
 
 • I play ⚾ and 🏀
 
-• I love to play :video_game: and look at :car: in my spare time
+• I love to play video games :video_game: and learn about cars :car: in my spare time
